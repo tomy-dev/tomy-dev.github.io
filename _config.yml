@@ -1,10 +1,11 @@
 title: Tomy Dev Blog
 author: tomy-dev
 email: 
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > 
+  Hola, este es mi blog, llamado Tomy Dev Blog.
+  Podras encontrar artículos de todo lo que tenga que ver con la tecnología.
+  También tenemos Disqus para que puedas comentar en nuestros artículos.
+  Espero que tengas un buen día, adiós!
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 1
