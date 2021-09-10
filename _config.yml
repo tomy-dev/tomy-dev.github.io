@@ -20,18 +20,18 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: bitbrain-github-io
+    shortname: tomy-dev-blog
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
-      icon: twitter-square
-      color: cyan
-    - url: https://bitbrain.itch.io
-      icon: itch-io
-      color: red
-    - url: https://github.com/bitbrain
+    #- url: https://twitter.com/bitbrain_
+    #  icon: twitter-square
+    #  color: cyan
+    #- url: https://bitbrain.itch.io
+    #  icon: itch-io
+    #  color: red
+    - url: https://github.com/tomy-dev
       icon: github-square
       color: purple
 
@@ -43,14 +43,14 @@ dash:
 theme: jekyll-dash
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-paginate
- - liquid-md5
- - jekyll/tagging
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - liquid-md5
+  - jekyll-tagging
 
 # Replaces the default avatar provider (gravatar)
-#avatar_source: github
-#github_username: bitbrain
+avatar_source: github
+github_username: tomy-dev
 #avatar_source: local
 #avatar_path: /assets/avatar.png
